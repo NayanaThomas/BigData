@@ -1,0 +1,8 @@
+MovieRating/AverageRating$AverageMovieRatingMapper.class
+MovieRating/TopRatedMovies$TopRatedMoviesMapper.class
+MovieRating/DescSortHelper$1.class
+MovieRating/DescSortHelper.class
+MovieRating/AverageRating.class
+MovieRating/AverageRating$AverageMovieRatingReducer.class
+MovieRating/TopRatedMovies$TopRatedMoviesReducer.class
+MovieRating/TopRatedMovies.class
